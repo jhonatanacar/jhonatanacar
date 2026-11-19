@@ -74,6 +74,6 @@ API Security Architect / API Designer (APIacademy) · Cloud Computing Fundamenta
 
 <div align="center">
 
-👉 **Full bilingual CV (ES/EN): [jhonatanacar.github.io/jhonatanacar](https://jhonatanacar.github.io/jhonatanacar/)**
+👉 **Full bilingual CV (EN/ES): [jhonatanacar.github.io](https://jhonatanacar.github.io)**
 
 </div>
